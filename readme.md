@@ -1,6 +1,6 @@
 
 ![Create Infrastructure](./architecture.png) 
-
+A forked project...
 
 ## Prerequisites
 
@@ -65,3 +65,7 @@ aws iam put-role-policy --role-name eks-CodeBuildServiceRole --policy-name codeb
 ```
 
 `kubectl apply -f aws-auth.yaml`
+
+
+Visit [original project documentation](https://000062.awsstudygroup.com/1-introduce/) for a more detailed explanation.
+
